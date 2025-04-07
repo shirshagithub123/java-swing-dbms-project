@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="https://shirshagithub123.github.io/java-swing-dbms-project" href="launch.jnlp">
+    <information>
+        <title>Student Management System</title>
+        <vendor>Shirsha Basak</vendor>
+        <description>Manage and view student records easily.</description>
+    </information>
+
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="StudentMnagementSystem.jar" main="true" />
+    </resources>
+
+    <application-desc main-class="com.studentmanagement.LoginPage">
+    </application-desc>
+</jnlp>
